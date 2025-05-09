@@ -12,16 +12,16 @@ Este repositório contém minha prática de programação em Python, com exercí
 Cada arquivo `.py` é um exercício resolvido individualmente.
 
 Exemplos:
-- `ex001.py` — crie um programa que leia dois números e mostre a soma entre eles.
-- `ex002.py` — Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele
-- `ex003.py` — faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
-- `ex004.py` —
-- `ex005.py` —
-- `ex006.py` —
-- `ex007.py` —
-- `ex008.py` —
-- `ex009.py` —
-- `ex010.py` —
+- [`ex001.py`](Ex001.py) — Olá, Mundo!
+- [`ex002.py`](Ex002.py) — Entrada de dados
+- [`ex003.py`](Ex003.py) — Somando dois números
+- [`ex004.py`](Ex004.py) — Operações matemáticas básicas
+- [`ex005.py`](Ex005.py) — Antecessor e sucessor
+- [`ex006.py`](Ex006.py) — Dobro, triplo e raiz quadrada
+- [`ex007.py`](Ex007.py) — Média de notas
+- [`ex008.py`](Ex008.py) — Conversor de medidas
+- [`ex009.py`](Ex009.py) — Tabuada
+- [`ex010.py`](Ex010.py) — Conversor de moedas
 
 ## 🚀 Como usar
 
