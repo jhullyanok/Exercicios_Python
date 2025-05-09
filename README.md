@@ -15,13 +15,13 @@ Exemplos:
 - [`ex001.py`](Ex001.py) — Lê dois números e exibe a soma entre eles.
 - [`ex002.py`](Ex002.py) — Lê um valor e mostra seu tipo primitivo e várias informações sobre ele.
 - [`ex003.py`](Ex003.py) — Lê um número e mostra seu antecessor e sucessor.
-- [`ex004.py`](Ex004.py) — Operações matemáticas básicas
-- [`ex005.py`](Ex005.py) — Antecessor e sucessor
-- [`ex006.py`](Ex006.py) — Dobro, triplo e raiz quadrada
-- [`ex007.py`](Ex007.py) — Média de notas
-- [`ex008.py`](Ex008.py) — Conversor de medidas
-- [`ex009.py`](Ex009.py) — Tabuada
-- [`ex010.py`](Ex010.py) — Conversor de moedas
+- [`ex004.py`](Ex004.py) — Lê um número e mostra seu dobro, triplo e raiz quadrada.
+- [`ex005.py`](Ex005.py) — Calcula a média de duas notas fornecidas.
+- [`ex006.py`](Ex006.py) — Converte metros para centímetros e milímetros.
+- [`ex007.py`](Ex007.py) — Gera a tabuada de um número fornecido.
+- [`ex008.py`](Ex008.py) — Converte reais em dólares com base em uma taxa fixa.
+- [`ex009.py`](Ex009.py) — 
+- [`ex010.py`](Ex010.py) — 
 
 ## 🚀 Como usar
 
