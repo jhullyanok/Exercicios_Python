@@ -12,7 +12,7 @@ Este repositório contém minha prática de programação em Python, com exercí
 Cada arquivo `.py` é um exercício resolvido individualmente.
 
 Exemplos:
-- `ex001.py` — Olá, Mundo!
+- `ex001.py` — crie um programa que leia dois números e mostre a soma entre eles.
 - `ex002.py` — Entrada de dados
 - `ex003.py` — Somando dois números
 - `ex004.py` —
