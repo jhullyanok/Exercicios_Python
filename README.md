@@ -1,23 +1,48 @@
-# 🐍 Exercícios de Python - Mundo 1
+# 🐍 Exercícios em Python
 
-Este repositório contém exercícios resolvidos do curso **Python Mundo 1** do canal [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara. Os exercícios abordam conceitos fundamentais da linguagem Python e são organizados por módulos para facilitar o aprendizado.
+Este repositório contém minha prática de programação em Python, com exercícios resolvidos enquanto aprendo a linguagem. O foco principal é desenvolver lógica, domínio da sintaxe e organização de código.
 
-## 📁 Estrutura do Repositório
-Exercicios_Python/
-├── Ex001/
-│ └── ex001.py
-├── Ex002/
-│ └── ex002.py
+## 📚 Fontes dos exercícios
 
-📚 Referências
-Curso em Vídeo - Python Mundo 1
+- Curso em Vídeo — [Python - Gustavo Guanabara](https://www.cursoemvideo.com/)
+- Exercícios propostos por Gustavo Guanabara
 
-Documentação Oficial do Python
+## 📁 Organização
 
-W3Schools - Python Tutorial
+Cada arquivo `.py` é um exercício resolvido individualmente.
 
-🤝 Contribuições
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quiser adicionar novos exercícios, fique à vontade para abrir uma issue ou enviar um pull request.
+Exemplos:
+- `ex001.py` — Olá, Mundo!
+- `ex002.py` — Entrada de dados
+- `ex003.py` — Somando dois números
+- `ex004.py` —
+- `ex005.py` —
+- `ex006.py` —
+- `ex007.py` —
+- `ex008.py` —
+- `ex009.py` —
+- `ex010.py` —
 
-📄 Licença
-Este projeto está licenciado sob a MIT License.
+## 🚀 Como usar
+
+Você pode baixar ou clonar este repositório:
+
+```bash
+git clone https://github.com/jhullyanok/Exercicios_Python.git
+E executar os arquivos .py com Python 3:
+python ex001.py
+```
+## 💡 Objetivos:
+• Praticar a linguagem Python de forma constante
+
+• Fortalecer a base da lógica de programação
+
+• Evoluir até projetos completos em Python
+
+
+## ✨ Contribuição
+Este repositório é pessoal, mas sugestões são bem-vindas!
+
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
