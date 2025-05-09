@@ -13,8 +13,8 @@ Cada arquivo `.py` é um exercício resolvido individualmente.
 
 Exemplos:
 - `ex001.py` — crie um programa que leia dois números e mostre a soma entre eles.
-- `ex002.py` — Entrada de dados
-- `ex003.py` — Somando dois números
+- `ex002.py` — Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele
+- `ex003.py` — 
 - `ex004.py` —
 - `ex005.py` —
 - `ex006.py` —
