@@ -12,15 +12,17 @@ Este repositório contém minha prática de programação em Python, com exercí
 Cada arquivo `.py` é um exercício resolvido individualmente.
 
 Exemplos:
-- [`ex001.py`](Ex001.py) — Lê dois números e exibe a soma entre eles.
-- [`ex002.py`](Ex002.py) — Lê um valor e mostra seu tipo primitivo e várias informações sobre ele.
-- [`ex003.py`](Ex003.py) — Lê um número e mostra seu antecessor e sucessor.
-- [`ex004.py`](Ex004.py) — Lê um número e mostra seu dobro, triplo e raiz quadrada.
-- [`ex005.py`](Ex005.py) — Calcula a média de duas notas fornecidas.
-- [`ex006.py`](Ex006.py) — Converte metros para centímetros e milímetros.
-- [`ex007.py`](Ex007.py) — Gera a tabuada de um número fornecido.
-- [`ex008.py`](Ex008.py) — Converte reais em dólares com base em uma taxa fixa.
-- [`ex009.py`](Ex009.py) — Calcula quantos litros de tinta são necessários para pintar uma parede, dado sua altura e largura.
+- [`ex001.py`](Ex001.py) — Exibe a mensagem "Olá, Mundo!" na tela.
+- [`ex002.py`](Ex002.py) — Lê o nome do usuário e imprime uma saudação personalizada.
+- [`ex003.py`](Ex003.py) — Lê dois números e exibe a soma entre eles.
+- [`ex004.py`](Ex004.py) — Lê um valor e mostra seu tipo primitivo e várias informações sobre ele.
+- [`ex005.py`](Ex005.py) — Lê um número e mostra seu antecessor e sucessor.
+- [`ex006.py`](Ex006.py) — Lê um número e mostra seu dobro, triplo e raiz quadrada.
+- [`ex007.py`](Ex007.py) — Calcula a média de duas notas fornecidas.
+- [`ex008.py`](Ex008.py) — Converte metros para centímetros e milímetros.
+- [`ex009.py`](Ex009.py) — Gera a tabuada de um número fornecido.
+- [`ex10.py`](Ex010.py) — Converte reais em dólares com base em uma taxa fixa.
+- [`ex011.py`](Ex011.py) — Calcula quantos litros de tinta são necessários para pintar uma parede, dado sua altura e largura.
 
 ## 🚀 Como usar
 
