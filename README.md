@@ -21,7 +21,7 @@ Exemplos:
 - [`ex007.py`](Ex007.py) — Calcula a média de duas notas fornecidas.
 - [`ex008.py`](Ex008.py) — Converte metros para centímetros e milímetros.
 - [`ex009.py`](Ex009.py) — Gera a tabuada de um número fornecido.
-- [`ex10.py`](Ex010.py) — Converte reais em dólares com base em uma taxa fixa.
+- [`ex010.py`](Ex010.py) — Converte reais em dólares com base em uma taxa fixa.
 - [`ex011.py`](Ex011.py) — Calcula quantos litros de tinta são necessários para pintar uma parede, dado sua altura e largura.
 
 ## 🚀 Como usar
