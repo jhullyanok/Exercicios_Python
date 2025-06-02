@@ -43,7 +43,3 @@ python ex001.py
 
 ## ✨ Contribuição
 Este repositório é pessoal, mas sugestões são bem-vindas!
-
-
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
